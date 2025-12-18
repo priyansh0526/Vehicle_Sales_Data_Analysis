@@ -21,7 +21,7 @@ The dashboard helps business stakeholders understand sales performance, profit t
 
 ## 📊 Dataset Details
 
-- Source: Kaggle (Car Prices Sales Dataset)
+- Source: Kaggle ([Car Prices Sales Dataset](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data))
 
 - Records: ~5.5 lakh rows
 
